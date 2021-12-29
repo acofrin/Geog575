@@ -1,0 +1,1 @@
+# This folder holds any images used in your website.

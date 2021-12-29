@@ -1,0 +1,1 @@
+# This folder holds any third-party JavaScript code libraries you choose to download and host. These will eventually include jQuery.js, Leaflet.js, D3.js, and potentially others. Some code libraries come with their own CSS stylesheets and images; leave these within the library's directory and place the entire directory within the lib folder to avoid confusion.

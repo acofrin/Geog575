@@ -1,0 +1,1 @@
+# This folder holds your custom JavaScript files, in which you will write the script to make your website—including its web map—dynamic and interactive.
